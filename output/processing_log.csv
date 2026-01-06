@@ -1,0 +1,2 @@
+Date,Time,Timestamp,Source Type,Input File Name,Input File Size (MB),Languages Selected,News Format,Location,Incident Time,AI Model Used,Output Files,Status,Notes
+03-01-2026,01:37:52,20260103_013752,IMAGE,12.jpeg,0.01,en | hi | te,BREAKING NEWS,N/A,N/A,gpt-4o,output\tv_news_BREAKING_NEWS_en_20260103_013752.txt | output\tv_news_BREAKING_NEWS_hi_20260103_013752.txt | output\tv_news_BREAKING_NEWS_te_20260103_013752.txt,SUCCESS,Auto-detected: True
